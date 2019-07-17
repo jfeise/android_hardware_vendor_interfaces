@@ -1,0 +1,6 @@
+hidl_package_root {
+    name: "vendor",
+    path: "hardware/vendor/interfaces",
+}
+
+subdirs = [ "oneplus" ]
