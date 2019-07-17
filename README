@@ -1,3 +1,7 @@
+The unofficial LineageOS build for OnePlus 7Pro (at https://github.com/PeterCxy/android_device_oneplus_guacamole)
+needs these HALS to be able to build.
+Haven't tested the build since I don't have a OnePlus 7Pro (yet.)
+
 Add to .repo/local_manifests/local_manifest.xml
 
   <remote name="jfeise" fetch="https://github.com/jfeise" />
