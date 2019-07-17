@@ -1,4 +1,4 @@
-Add to .repo/local_manifests/local_manifest
+Add to .repo/local_manifests/local_manifest.xml
 
   <remote name="jfeise" fetch="https://github.com/jfeise" />
 
