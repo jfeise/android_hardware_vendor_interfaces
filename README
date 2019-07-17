@@ -1,0 +1,6 @@
+Add to .repo/local_manifests/local_manifest
+
+  <remote name="jfeise" fetch="https://github.com/jfeise" />
+
+  <project path="hardware/vendor" name="android_hardware_vendor_interfaces" remote="jfeise" revision="lineage-16.0"/>
+
